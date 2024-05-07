@@ -5,11 +5,11 @@
 My name is Saurabh Sanap , **thank you** for visiting my profile!
 
 - 📌 I'm  from Nashik, Maharashtra <sub>IN</sub> .
-- 🔭 I’m currently looking for a career as a  Full-Stack Web Developer.
+- 🔭 I’m currently working as a  Full-Stack Web Developer.
 - 🧠 Some of my Interests are:  Web Development ,Web Designing, Mobile Application Development, Linux, Cloud , Data Science, AI and Machine Learning. 
 - 📫 How to reach me:
     - Email: sanapsaurabh218@gmail.com
-    - Personal Website/Portfolio: https://saurabhsanap.netlify.app/
+    - Personal Website/Portfolio: https://www.mydigitalgarage.online/
  
  
 ## My Skill Set  
